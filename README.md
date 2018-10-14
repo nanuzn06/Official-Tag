@@ -8,9 +8,8 @@ Requirements for the Official Device Maintainership:-
 3. You have to also maintain a good commit history with proper maintained authorship to the required commits.
 
 Device Requirements:-
-1. Device SeLinux should be enforcing.
-2. Device Important functions should be working (camera, data, video calling, wifi Hotspot, etc) so as to be used as a good daily driver.
-3. All the device sources should be opensource.
+1. Device Important functions should be working (camera, data, video calling, wifi Hotspot, etc) so as to be used as a good daily driver.
+2. All the device sources should be opensource.
 
 Fill this up if all the above points matches your criterias
 https://goo.gl/forms/mRvocqWINhWGs32d2
