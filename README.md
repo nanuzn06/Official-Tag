@@ -6,12 +6,16 @@ Requirements for the Official Device Maintainership:-
 1. You should have a proper knowledge of Github & Gerrit (A bit :p)
 2. You should also have a Telegram Account so as to keep in touch with you.
 3. You have to also maintain a good commit history with proper maintained authorship to the required commits.
+4. We don't support kanging so if are going to maintain your device with kang then better away from this :)
 
 Device Requirements:-
 1. Device Important functions should be working (camera, data, video calling, wifi Hotspot, etc) so as to be used as a good daily driver.
 2. All the device sources should be opensource.
+3. All the device sources like device tree/vendorvendor tree/common-tree should be uploaded in our Lean-Devices org.
 
 Fill this up if all the above points matches your criterias
 https://goo.gl/forms/mRvocqWINhWGs32d2
 
 Also if you have any Suggestions, Queries, Feature Requests or If you have any new ideas to contribute to us, feel free to mail us at leanosdev@gmail.com We listen to everyone, you won't be ignored :)
+
+Feel free to contact us any time or for general chat/discussion t.me/lean_os
