@@ -14,4 +14,4 @@ Device Requirements:-
 Fill this up if all the above points matches your criterias
 https://goo.gl/forms/mRvocqWINhWGs32d2
 
-Also if you have any Suggestions, Queries, Feature Requests or If you have any new ideas to contribute to us, feel free to mail us at leanosproject@gmail.com We listen to everyone, you won't be ignored :)
+Also if you have any Suggestions, Queries, Feature Requests or If you have any new ideas to contribute to us, feel free to mail us at leanosdev@gmail.com We listen to everyone, you won't be ignored :)
