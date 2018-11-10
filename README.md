@@ -15,7 +15,7 @@ Device Requirements:-
 3. All the device sources like device tree/vendor tree/common-tree should be uploaded in our Lean-Devices org.
 
 Fill this up if all the above points matches your criterias
-https://goo.gl/forms/mRvocqWINhWGs32d2
+https://docs.google.com/forms/d/e/1FAIpQLSeStw0ZXdqTfQle0iSuVitcOWQcJM04Oe2nTsPnomIiIBKFHg/viewform
 
 Also if you have any Suggestions, Queries, Feature Requests or If you have any new ideas to contribute to us, feel free to mail us at leanosdev@gmail.com We listen to everyone, you won't be ignored :)
 
