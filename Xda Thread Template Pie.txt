@@ -1,0 +1,82 @@
+[IMG]https://i.imgur.com/oltH3V6.jpg[/IMG]
+
+[CODE]#include <std_disclaimer.h>
+/*
+ * Your warranty is... still valid?
+ *
+ * I am not responsible for bricked devices, dead SD cards,
+ * thermonuclear war, or you getting fired because the alarm app failed. Please
+ * do some research if you have any concerns about features included in this ROM
+ * before flashing it! YOU are choosing to make these modifications, and if
+ * you point the finger at me for messing up your device, I will laugh at you.
+ */[/CODE]
+
+Now that I'm done saving my butt, let's proceed :D
+
+
+[IMG]https://i.imgur.com/Pd3AVkP.png[/IMG]
+LeanOS is a custom ROM for Xiaomi Redmi Note 5 Pro (Whyred) that implements various features Also its Refreshment Drink for Your Device. This project was designed by our "LeanOS Team" from scratch based on AOSP source code. Also for HALs we use CodeAurora sources (i.e. CAF). 
+
+[IMG]https://i.imgur.com/2UVvDZ7.png[/IMG]
+[SIZE=+2]Team Lean[/SIZE]
+ [MENTION=7515368]Blackman01[/MENTION](Core/Head Developer) 
+ [MENTION=5918218]taranhora[/MENTION](Lead Developer)
+ [MENTION=6553877]Dell Schulz[/MENTION](Developer) 
+ [MENTION=7050563]riteshm321[/MENTION](Developer)
+ [MENTION=7477838]Ryan1701[/MENTION](Designer) 
+ [MENTION=8829870]SuperDroidBond[/MENTION](SPECIAL THANKS) 
+ [MENTION=6519039]Henrique Silva[/MENTION](SPECIAL THANKS)
+
+
+Social Network Manager:
+ [MENTION=7054056]Rasinsahaji[/MENTION]
+
+[SIZE=+1]Got an issue or suggestion? Reach us at[/SIZE]
+[B]Telegram[/B]: [URL]https://t.me/lean_os[/URL]
+
+Intial Build
+
+[B]OTA Updates support[/B]: Coming soon!
+
+[IMG]https://i.imgur.com/RgGc39i.png[/IMG]
+[B]LeanOS:[/B] [URL="https://github.com/LeanOS-Project"]Lean-Project[/URL]
+[B]Lean Device Sources:[/B] [URL="https://github.com/Lean-Devices"]Lean-Devices[/URL]
+
+[IMG]https://i.imgur.com/2NKgwPn.png[/IMG]
+[SIZE=+1][b]Clean Install[/b][/SIZE]
+- Backup all your data (Important)
+- Wipe /system, /data and cache.
+- Flash the ROM + GApps (Download link below)
+- Reboot
+
+[SIZE=+1][b]Updates[/b][/SIZE]
+- Flash ROM
+- Reboot!
+
+[IMG]https://i.imgur.com/lL1I7Y2.png[/IMG]
+[B]ROM:[/B] [URL]Need To be Add[/URL]
+[B]GApps:[/B] [URL="https://opengapps.org"]OpenGApps[/URL]
+
+[IMG]https://i.imgur.com/dfFMPnc.png[/IMG]
+[SIZE=+1]Credits[/SIZE]
+- Google for AOSP
+- Team Lean
+- Nitrogen Project
+- PixelExperience
+- OMNIROM
+- AospExtended
+- MSM-Xtended
+- Aosip
+
+XDA:DevDB Information
+[ROM][9.0][Whyred] LeanOS Pie[2018/11/11], ROM for Redmi Note 5 Pro
+
+Contributors
+Rashed Sahaji
+ROM OS Version: 9.x Pie
+
+Version Information
+Status: Beta
+
+Created 2018-11-11
+Last Updated 2018-11-11
